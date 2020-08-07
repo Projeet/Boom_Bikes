@@ -25,32 +25,32 @@ Based on various meteorological surveys and people's styles, the service provide
 
 Features Used:
 
-Temperature
+1.Temperature
 
-Windspeed
+2.Windspeed
 
-Working day
+3.Working day
 
-Season
+4.Season
 
-Weathersit
+5.Weathersit
 
-Year
+6.Year
 
 
 Tools used for project development:
 
+1.Python ( 3.7 version)
 
-Python ( 3.7 version)
+2.Streamlit
 
-Streamlit
+3.Statsmodel
 
-Statsmodel
+4.Pandas
 
-Pandas
+5.Numpy
 
-Numpy
-
+Thankyou!
 
 
 

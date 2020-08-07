@@ -4,7 +4,9 @@ This is a web app for a bike rental company to predict the count of bikes they w
 
 <img width="948" alt="boom_bikes" src="https://user-images.githubusercontent.com/29618633/89616999-40812980-d83e-11ea-92da-aba3212dcfe8.PNG">
 
+
 Problem Statement
+
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
 

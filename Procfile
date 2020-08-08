@@ -1,2 +1,2 @@
-web: sh setup.sh && streamlit run boom_bikes.py
+worker: sh setup.sh && streamlit run boom_bikes.py
 
